@@ -61,7 +61,7 @@
     </div>
   <% } %>
   <div class="jumbotron">
-      <h1>Application is Working</h1>
+      <h1>Application is tested well</h1>
       <p><i>it works! #buildwithAWS</i></p>
     </div>
   <div class="container theme-showcase" role="main">
